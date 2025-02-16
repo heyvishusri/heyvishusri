@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/heyvishusri/heyvishusri/blob/main/Make%20your%20README_github_banner.png)
 <h1 align="center">Hi 👋, I'm VISHWASH KUMAR</h1>
 <h3 align="center">A passionate learner that dreams big and has a growth mindset.</h3>
 
