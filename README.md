@@ -1,4 +1,4 @@
-![logo](https://github.com/heyvishusri/heyvishusri/blob/main/new1.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm VISHWASH KUMAR</h1>
 <h3 align="center">A passionate learner that dreams big and has a growth mindset.</h3>
 
