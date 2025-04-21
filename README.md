@@ -1,6 +1,7 @@
 ![logo](https://github.com/heyvishusri/heyvishusri/blob/main/Make%20your%20README_github_banner.png)
 <h1 align="center">Hi 👋, I'm VISHWASH KUMAR</h1>
-<h3 align="center">A passionate learner that dreams big and has a growth mindset.</h3>
+<h3 align="center">🚀 Mindset:
+I believe in continuous learning, consistent practice, and growing step-by-step towards building a successful career in tech..</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
