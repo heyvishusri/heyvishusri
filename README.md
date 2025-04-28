@@ -9,9 +9,9 @@ I believe in continuous learning, consistent practice, and growing step-by-step 
 
 <p align="left"> <a href="https://twitter.com/sriwastaw51186" target="blank"><img src="https://img.shields.io/twitter/follow/sriwastaw51186?logo=twitter&style=for-the-badge" alt="sriwastaw51186" /></a> </p>
 
-- 🔭 I’m currently working on [An Interactive Fashion E-commerce Platform with Real-Time Analytics](https://github.com/heyvishusri/Trend-Mart)
+- 🔭 I’m currently looking an internship.
 
-- 🌱 I’m currently learning **Python,JavaScript,SQL, .Net frameworks, AI/ML, Flask, etc.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, ReactJS, Python, C#, SQL, and MERN stack, etc. **
 
 - 📫 How to reach me **vishwashk8255@gmail.com**
 
