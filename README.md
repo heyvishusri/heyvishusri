@@ -11,7 +11,7 @@ I believe in continuous learning, consistent practice, and growing step-by-step 
 
 - 🔭 I’m currently looking an internship.
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, ReactJS, Python, C#, SQL, and MERN stack, etc. **
+- 🌱 I’m currently learning **JavaScript, Python, C#, SQL, and MERN stack, etc.**
 
 - 📫 How to reach me **vishwashk8255@gmail.com**
 
