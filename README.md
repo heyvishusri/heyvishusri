@@ -19,13 +19,27 @@ I believe in continuous learning, consistent practice, and growing step-by-step 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sriwastaw51186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sriwastaw51186" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vishwash-kumar-104661266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishwash-kumar-104661266" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/heyvishu_17.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/heyvishu_17.01/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@joinmy_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@joinmy_code" height="30" width="40" /></a>
-<a href="www.hackerrank.com/profile/vishwaskumar5531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vishwaskumar5531" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vishwaskumar17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vishwaskumar17/" height="30" width="40" /></a>
+  <a href="https://twitter.com/sriwastaw51186" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishwash-kumar-104661266" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/heyvishu_17.01/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@joinmy_code" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/vishwaskumar5531" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/vishwaskumar17/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
